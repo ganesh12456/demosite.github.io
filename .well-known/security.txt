@@ -1,0 +1,15 @@
+Contact: mailto:security@example.com
+Expires: 2025-12-31T23:59:59Z
+Preferred-Languages: en
+Canonical: https://sola-web-security-monitor.github.io/.well-known/security.txt
+
+# Security Policy for Sola Web Security Monitor Demo Site
+# This is a demonstration site for hackathon testing purposes
+
+# Reporting Guidelines
+# Please report any security vulnerabilities discovered to the contact above.
+# Include detailed steps to reproduce the issue.
+
+# Acknowledgments
+# We appreciate responsible disclosure and will acknowledge researchers
+# who help improve our security (with permission).
